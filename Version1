@@ -1,0 +1,21 @@
+ <link rel="stylesheet" href="styles.css">
+ <center>
+<main id="main">
+  <div class="img-div"></div>
+  <div class="image">
+    <img src="https://static.wikia.nocookie.net/chainsaw-man/images/b/bf/Kobeni_anime_design.png/revision/latest?cb=20220919121148"></img>
+  </div>
+  <div class="img-caption">This is an image of Kobeni</div>
+  <div class="tribute-info">This is a tribute to the Chainsaw Man Character Kobeni Higashiyama</div>
+  <div class="tribute-link" href="hehehe"></div>
+<title id="title">
+</title>
+<div id="img-div">
+<img id="image" src="https://static.wikia.nocookie.net/chainsaw-man/images/a/ac/Power_anime_design_2.png/revision/latest?cb=20220919121127"></img>
+<div id="img-caption">This is an image of Power</div>
+<div id="tribute-info">This is a tribute to the Chainsaw Man Character Power</div>
+</div>
+<a id="tribute-link" target="_blank" href="">
+</a>
+</center>
+</main>
